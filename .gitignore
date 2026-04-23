@@ -1,0 +1,19 @@
+# Build outputs
+program
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# CMake / build dirs, if added later
+build/
+cmake-build-*/
+
+# Editor / OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+
